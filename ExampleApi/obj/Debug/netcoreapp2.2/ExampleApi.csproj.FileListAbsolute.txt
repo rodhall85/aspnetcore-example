@@ -1,0 +1,14 @@
+/home/rod/dev/aspnetcoreexample/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.deps.json
+/home/rod/dev/aspnetcoreexample/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.runtimeconfig.json
+/home/rod/dev/aspnetcoreexample/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.runtimeconfig.dev.json
+/home/rod/dev/aspnetcoreexample/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.dll
+/home/rod/dev/aspnetcoreexample/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.pdb
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.csprojAssemblyReference.cache
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.csproj.CoreCompileInputs.cache
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.RazorAssemblyInfo.cache
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.RazorAssemblyInfo.cs
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.AssemblyInfoInputs.cache
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.AssemblyInfo.cs
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.RazorTargetAssemblyInfo.cache
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.dll
+/home/rod/dev/aspnetcoreexample/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.pdb
